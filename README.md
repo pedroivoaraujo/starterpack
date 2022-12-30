@@ -1,5 +1,5 @@
 # Starter Pack 3
-<p align="center">
+<p>
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Version-3.0.0-lightgrey" 
             alt="Latest Stable Version">
